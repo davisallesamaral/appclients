@@ -1,3 +1,19 @@
+# Small CRUD  React a - Pagination List
+
+npm install --save @fortawesome/react-fontawesome <br>
+npm install --save @fortawesome/free-solid-svg-icons <br>
+npm install --save @fortawesome/fontawesome-svg-core <br>
+npm install --save bootstrap <br>
+npm install react-router-dom <br>
+
+Use the follow API / Laravel :<br>
+https://github.com/davisallesamaral/myapi---LARAVEL
+
+
+
+## Available Scripts
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
